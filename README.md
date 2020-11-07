@@ -1,2 +1,2 @@
 # bot-project
-both write in python
+bot write in python
